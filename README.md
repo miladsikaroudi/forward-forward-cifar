@@ -60,7 +60,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Geoff Hinton for the inspiration behind the Forward-Forward Neural Network.
 - PyTorch and torchvision teams for their excellent libraries.
 - CIFAR-10 dataset creators for providing the dataset.
-
-```
-
-You can customize the README further based on your specific project details, installation instructions, and any additional sections you may want to include.
