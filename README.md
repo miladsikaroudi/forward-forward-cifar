@@ -32,18 +32,12 @@ This is an implementation of a Forward-Forward Neural Network inspired by Geoff 
    python download_cifar10.py
    ```
 
-4. Train the Forward-Forward Neural Network:
+4. Train and evaluate the Forward-Forward Neural Network:
 
    ```shell
-   python train.py
+   python main.py
    ```
-
-5. Evaluate the trained model:
-
-   ```shell
-   python evaluate.py
-   ```
-
+   
 ## Configuration
 
 - You can modify the network architecture by adjusting the dimensions in the `Net` class in `train.py`.
